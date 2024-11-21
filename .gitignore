@@ -1,0 +1,11 @@
+# Ignorar arquivos e pastas do ambiente de desenvolvimento
+.idea/
+*.exe
+
+# Outras pastas de compilação que não precisam ser rastreadas
+build/
+target/
+__pycache__/
+*.class
+*.o
+*.pyc
